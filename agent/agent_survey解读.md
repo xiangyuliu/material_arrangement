@@ -9,7 +9,7 @@
 
 思考了很久，还是决定直接引用文章的图。
 
-[总体视野图](https://github.com/xiangyuliu/material_arrangement/blob/main/sources/image/agent/AIAgent%E6%80%BB%E4%BD%93%E5%A4%A7%E5%9B%BE.png)
+![总体视野图](https://github.com/xiangyuliu/material_arrangement/blob/main/sources/image/agent/AIAgent%E6%80%BB%E4%BD%93%E5%A4%A7%E5%9B%BE.png)
 
 
 
