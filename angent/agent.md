@@ -12,8 +12,23 @@ agent随着大模型技术的演进逐步收到越来越多的的关注，其Age
 
 ## Agent 框架的控制粒度
 ### 复杂度取舍
-
 ![复杂度平衡](https://github.com/xiangyuliu/material_arrangement/blob/main/sources/image/%E5%A4%8D%E6%9D%82%E5%BA%A6-2025-01-14-1041.png)
+
+
 
 ### 控制粒度
 ![控制粒度](https://github.com/xiangyuliu/material_arrangement/blob/main/sources/image/%E4%B8%8D%E5%90%8C%E6%8E%A7%E5%88%B6%E7%A8%8B%E5%BA%A6-2025-01-14-1041.png)
+
+
+## 常见框架
+常见的框架非常多，简单介绍autogen和langgraph。因为两者都是非常具有代表性的框架结构。
+
+### autogen
+**设计理念——对话即一切** 一切以对话为核心，通过对话机制实现功能。这是autogen的核心设计逻辑。
+
+*1.Multi-agent的发言交由group chat manager进行管理*
+*2.具体管理的方式有很多选项方式，比如llm判断，轮转等等*
+
+
+![基本角色](https://github.com/xiangyuliu/material_arrangement/blob/main/sources/image/autogen%E5%9F%BA%E6%9C%AC%E8%A7%92%E8%89%B2-2025-01-14-1041.png)
+
