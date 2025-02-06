@@ -12,7 +12,7 @@ From May 6, 2024, to December 5, 2024, I was occupied with handling a major fami
 1.每天保持正常的作息，按时起床，就餐，运动。
 
 
-2.在家是不穿睡衣，保持正常着装。
+2.在家时不穿睡衣，保持正常着装。
 
 
 3.上午追踪技术新闻和热点。
