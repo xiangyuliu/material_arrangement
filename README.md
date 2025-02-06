@@ -29,6 +29,7 @@ From May 6, 2024, to December 5, 2024, I was occupied with handling a major fami
 
 
 
+***感谢这个过程中一直陪伴、支持和鼓励我的家人和朋友们！***
 
 
 
@@ -55,6 +56,8 @@ From May 2024 to December 2024, during those seven months, I experienced extreme
 Keep an optimistic and positive attitude and live life actively. **Positivity has always been a verb, not an adjective. No matter what, we should live life to the fullest**. ***Even if the road is full of hardships, there will always be a sunny day!***
 
 
+
+***Thanks to my family and friends who have been accompanying, supporting and encouraging me throughout this process!***
 
 
 
