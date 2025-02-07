@@ -59,5 +59,16 @@ Keep an optimistic and positive attitude and live life actively. **Positivity ha
 
 ***Thanks to my family and friends who have been accompanying, supporting and encouraging me throughout this process!***
 
+---
+
+**内容包括：**
+[DeepSeek技术报告解读系列](https://github.com/xiangyuliu/material_arrangement/tree/main/deepseek) *Deepseek技术报告系列*
+
+
+[agent相关] (https://github.com/xiangyuliu/material_arrangement/tree/main/agent) *agent相关*
+
+
+[5月-12月重大产品发布追踪](https://github.com/xiangyuliu/material_arrangement/tree/main/deepseek) *回归第一周对过去接个月重大技术进展的回顾*
+
 
 
