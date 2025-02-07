@@ -69,11 +69,11 @@ Keep an optimistic and positive attitude and live life actively. **Positivity ha
 
 
 
-[Agent相关] (https://github.com/xiangyuliu/material_arrangement/tree/main/agent) *agent相关*
+[Agent相关](https://github.com/xiangyuliu/material_arrangement/tree/main/agent) *agent相关*
 
 
 
-[5月-12月重要发布追踪](https://github.com/xiangyuliu/material_arrangement/tree/main/deepseek) *回归第一周对过去接个月重大技术进展的回顾*
+[5月-12月重要发布追踪](https://github.com/xiangyuliu/material_arrangement/tree/main/deepseek) *回归第一周对过去几个月重大技术进展的回顾*
 
 
 
