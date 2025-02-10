@@ -19,7 +19,7 @@ Agent技术随着大模型的发展越来越收到关注。关于Agent，根据�
 
 
 
-[Agent综述引言-解读](https://github.com/xiangyuliu/material_arrangement/blob/local_edit_20250206/agent/agent_survey%E8%A7%A3%E8%AF%BB_introduction.md)*李飞飞老师近期agent的相关技术综述解读-引言*
+[Agent综述引言-解读](https://github.com/xiangyuliu/material_arrangement/blob/main/agent/agent_survey%E8%A7%A3%E8%AF%BB_introduction.md)*李飞飞老师近期agent的相关技术综述解读-引言*
 
 
 
