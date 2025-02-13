@@ -12,3 +12,6 @@ DeepSeek近期引起大家热议。其技术报告中披露了很多的内容，
 
 [*V3技术报告解读2*](https://github.com/xiangyuliu/material_arrangement/blob/main/deepseek/V3%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A%E8%A7%A3%E8%AF%BB2.md)
 
+
+
+[*V3技术报告解读3*](https://github.com/xiangyuliu/material_arrangement/blob/main/deepseek/V3%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A%E8%A7%A3%E8%AF%BB3.md)
