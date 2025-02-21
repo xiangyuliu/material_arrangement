@@ -9,7 +9,7 @@ RAG是一项大模型应用中的关键技术。其对于消除大模型的幻�
 
 # RAG
 
-[RAG](https://github.com/xiangyuliu/material_arrangement/blob/main/rag/RAG%E6%A3%80%E7%B4%A2.md)
+[RAG技术](https://github.com/xiangyuliu/material_arrangement/blob/main/rag/RAG%E6%A3%80%E7%B4%A2.md)
 
 
 
