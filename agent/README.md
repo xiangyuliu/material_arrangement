@@ -9,7 +9,7 @@ Agent技术随着大模型的发展越来越收到关注。关于Agent，根据�
 ## 内容
 
 
-[人工智能技术发展脉络]() *人工智能技术发展的历程和趋势简介*
+[人工智能技术发展脉络](https://github.com/xiangyuliu/material_arrangement/blob/main/agent/AI%E5%8E%86%E7%A8%8B%E5%92%8C%E8%B6%8B%E5%8A%BF.md) *人工智能技术发展的历程和趋势简介*
 
 [谷歌白皮书解读](https://github.com/xiangyuliu/material_arrangement/blob/main/agent/ANTHROPIC_%E8%A7%A3%E8%AF%BB.md) *谷歌发布Agent白皮书解读*
 
