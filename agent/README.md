@@ -33,6 +33,9 @@ Agent技术随着大模型的发展越来越收到关注。关于Agent，根据�
 [AI Agent Integration解读2](https://github.com/xiangyuliu/material_arrangement/blob/main/agent/agent_survey%E8%A7%A3%E8%AF%BBAIAgent%E6%95%B4%E5%90%882.md)*综述2 AI Agent Integration解读2*
 
 
+[AI Agent 范式](https://github.com/xiangyuliu/material_arrangement/blob/main/agent/agent_survey_Agent%E8%8C%83%E5%BC%8F.md)
+
+
 
 [早期Agent技术思考整理](https://github.com/xiangyuliu/material_arrangement/blob/main/agent/agent.md)
 
