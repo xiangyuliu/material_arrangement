@@ -72,6 +72,9 @@ Keep an optimistic and positive attitude and live life actively. **Positivity ha
 [Agent相关](https://github.com/xiangyuliu/material_arrangement/tree/main/agent) *agent相关*
 
 
+[Qwen2.5-vl技术报告](https://github.com/xiangyuliu/material_arrangement/blob/main/Qwen/Qwen2.5-vl.md)*Qwen2.5-vl技术报告*
+
+
 
 [5月-12月重要发布追踪](https://github.com/xiangyuliu/material_arrangement/tree/main/deepseek) *回归第一周对过去几个月重大技术进展的回顾*
 
