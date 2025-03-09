@@ -36,6 +36,9 @@ Agent技术随着大模型的发展越来越收到关注。关于Agent，根据�
 [AI Agent 范式](https://github.com/xiangyuliu/material_arrangement/blob/main/agent/agent_survey_Agent%E8%8C%83%E5%BC%8F.md)
 
 
+[Agent AI Learning]()
+
+
 
 [早期Agent技术思考整理](https://github.com/xiangyuliu/material_arrangement/blob/main/agent/agent.md)
 
