@@ -67,7 +67,7 @@ Keep an optimistic and positive attitude and live life actively. **Positivity ha
 
 [DeepSeek技术报告解读系列](https://github.com/xiangyuliu/material_arrangement/tree/main/deepseek) *Deepseek技术报告系列*
 
-
+[GEMMA3技术报告解读](https://github.com/xiangyuliu/material_arrangement/blob/main/Gemma/GEMMA-3%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A%E8%A7%A3%E8%AF%BB.md) *GEMMA-3技术报告解读*
 
 [Agent相关](https://github.com/xiangyuliu/material_arrangement/tree/main/agent) *agent相关*
 
