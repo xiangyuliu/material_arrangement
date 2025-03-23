@@ -76,6 +76,11 @@ Keep an optimistic and positive attitude and live life actively. **Positivity ha
 
 
 
+[LIGHTRAG](https://github.com/xiangyuliu/material_arrangement/blob/main/rag/LightRAG.md)  *LightRAG*
+
+
+
+
 [5月-12月重要发布追踪](https://github.com/xiangyuliu/material_arrangement/tree/main/deepseek) *回归第一周对过去几个月重大技术进展的回顾*
 
 
