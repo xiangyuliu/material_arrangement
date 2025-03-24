@@ -80,6 +80,8 @@ Keep an optimistic and positive attitude and live life actively. **Positivity ha
 
 
 
+[NSA解读1](https://github.com/xiangyuliu/material_arrangement/blob/main/deepseek/NSA(Native%20Sparse%20Attention%20)%E2%80%94%E2%80%94%E8%A7%A3%E8%AF%BB1.md) *NSA解读1*
+
 
 [5月-12月重要发布追踪](https://github.com/xiangyuliu/material_arrangement/tree/main/deepseek) *回归第一周对过去几个月重大技术进展的回顾*
 
