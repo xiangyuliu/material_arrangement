@@ -24,4 +24,4 @@ _**PS：图片来自「量子位」**_
 
 ## NSA-算子优化
 
-![NSA-kernel设计.png](https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/54Lq36KYwZjXn7Ed/img/e7547868-8cc5-46f9-8a65-1ba89188db8e.png)
+![NSA-kernel设计.png](https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/54Lq36KYwZjXn7Ed/img/14eb406b-d65a-4007-b6e6-6b1993898c8e.png)
