@@ -92,6 +92,9 @@ Keep an optimistic and positive attitude and live life actively. **Positivity ha
 [NSA解读2](https://github.com/xiangyuliu/material_arrangement/blob/main/deepseek/NSA(Native%20Sparse%20Attention%20)%E2%80%94%E2%80%94%E8%A7%A3%E8%AF%BB2.md) *NSA解读2*
 
 
+[医疗器械类的AI化的一些想法](https://github.com/xiangyuliu/material_arrangement/blob/main/thoughts/%E5%85%B3%E4%BA%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9C%A8%E5%8C%BB%E7%96%97%E8%AE%BE%E5%A4%87%E5%9C%BA%E6%99%AF%E4%B8%8B%E5%BA%94%E7%94%A8%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83.md) *过去关于医疗器械类场景的AI应用的一些思考*
+
+
 [5月-12月重要发布追踪](https://github.com/xiangyuliu/material_arrangement/tree/main/deepseek) *回归第一周对过去几个月重大技术进展的回顾*
 
 
